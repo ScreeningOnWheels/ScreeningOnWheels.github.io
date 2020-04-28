@@ -27,8 +27,40 @@
 	</head>
 	<body id="body1">
 		<div id="content-container" >
-			<div id="_bg__home_page"  ></div>
-			<img src="skins/dsc_0078.png" id="dsc_0078" />
+			<!-- <div id="_bg__home_page"  ></div> -->
+			<div id="slide_container">
+				<div class="mySlides fade" id="slide_container1">
+					<img src="skins/slide1.png" style="width:100%">
+					<a style="text-decoration:none" href="mission.html"><div id="learn_more__" >
+						Learn More >
+					</div></a>
+				</div>
+				<div class="mySlides fade" id="slide_container1">
+					<img src="skins/slide2.png" style="width:100%">
+					<a style="text-decoration:none" href="partners.html"><div id="learn_more__" >
+						Learn More >
+					</div></a>
+				</div>
+				<div class="mySlides fade" id="slide_container1">
+					<img src="skins/slide3.png" style="width:100%">
+					<a style="text-decoration:none" href="pamphlets.html"><div id="learn_more__" >
+						Learn More >
+					</div></a>
+				</div>
+				<div class="mySlides fade" id="slide_container1">
+					<img src="skins/slide4.png" style="width:100%">
+					<a style="text-decoration:none" href="contact.html"><div id="learn_more__" >
+						Learn More >
+					</div></a>
+				</div>
+				<div class="mySlides fade" id="slide_container1">
+					<img src="skins/slide5.png" style="width:100%">
+					<a style="text-decoration:none" href="donate.html"><div id="learn_more__" >
+						Learn More >
+					</div></a>
+				</div>
+			</div>
+			
 			<div id="rectangle_2"  ></div>
 			<div id="the_story_behind_it_all" >
 				THE STORY BEHIND IT ALL
@@ -64,22 +96,19 @@
 			<a style="text-decoration:none" href="mission.html"><div id="our_mission" >
 				Our Mission
 			</div></a>
-			<div id="our_mission_ek1" >
+<!-- 			<div id="our_mission_ek1" >
 				OUR<br/>MISSION
 			</div>
 			<div id="globally__cancer_is_a_leading_cause_of_death_and_can_be_prevented_by_lifestyle_changes_and_frequent_screenings__we_seek_to_assemble_physicians_to_provide_care_and_educational_materials_to_those_in_need__raising_awareness_is_key_" >
 				Globally, cancer is a leading cause of death and can be prevented by lifestyle<br/>changes and frequent screenings. We seek to assemble physicians to provide<br/>care and educational materials to those in need. Raising awareness is key.
-			</div>
-			<div id="learn_more__" >
-				Learn More >
-			</div>
-			<div id="ellipse_2"  ></div>
+			</div> -->
+<!-- 			<div id="ellipse_2"  ></div>
 			<div id="ellipse_3"  ></div>
 			<div id="ellipse_4"  ></div>
 			<div id="ellipse_5"  ></div>
-			<div id="ellipse_6"  ></div>
-			<img src="skins/polygon_3.png" id="polygon_3" />
-			<img src="skins/polygon_6.png" id="polygon_6" />
+			<div id="ellipse_6"  ></div> -->
+<!-- 			<img src="skins/polygon_3.png" id="polygon_3" />
+			<img src="skins/polygon_6.png" id="polygon_6" /> -->
 
 		</div>
 	</body>
@@ -87,5 +116,22 @@
 		var viewportWidth = document.documentElement.clientWidth;
 		var zoomer=viewportWidth/1910;
 		document.body.style.zoom = zoomer.toString(10);
+	</script>
+	<script>
+		var slideIndex = 0;
+		showSlides();
+
+		function showSlides() {
+		  var i;
+		  var slides = document.getElementsByClassName("mySlides");
+		  var dots = document.getElementsByClassName("dot");
+		  for (i = 0; i < slides.length; i++) {
+		    slides[i].style.display = "none";  
+		  }
+		  slideIndex++;
+		  if (slideIndex > slides.length) {slideIndex = 1}    
+		  slides[slideIndex-1].style.display = "block";  
+		  setTimeout(showSlides, 5000); // Change image every 2 seconds
+		}
 	</script>
 </html>
