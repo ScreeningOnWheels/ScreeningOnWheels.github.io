@@ -1,0 +1,230 @@
+/*
+	@name our_mission
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 2160px; margin-left: auto; margin-right: auto;  }
+
+#_bg__our_mission {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 2160px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+}
+
+
+#dsc_0078 {
+	top: 0px;
+	left: 0px;
+	width: 1921px;
+	height: 1080px;
+}
+
+
+#our_mission {
+	top: 257px;
+	left: 145px;
+	width: 1023px;
+	height: 360px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#cancer_is_indiscriminate__it_can_affect_anyone__in_any_place__at_any_time__with_parents_in_the_medical_field__we_hear_stories_of_the_loss_that_cancer_brings_with_it__cancer_ruins_careers__leaves_long_lasting_psychological_trauma__and_takes_our_loved_ones_f {
+	top: 645px;
+	left: 154px;
+	width: 1112px;
+	height: 154px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#line_1 {
+	top: 112px;
+	left: 0.5px;
+	width: 1920px;
+	height: 1px;
+}
+
+
+#dsc_0067 {
+	top: 1080px;
+	left: -1px;
+	width: 1921px;
+	height: 1080px;
+}
+
+
+#meet_the_team {
+	top: 1667px;
+	left: 154px;
+	width: 1141px;
+	height: 360px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#arjun_is_responsible_for_overall_operations__and_making_connections_with_disadvantaged_and_local_businesses_for_potential_screening_sites__byron_creates_the_content_for_our_pamphlets__works_on_logistics_in_recruiting_doctors__and_obtains_materials_needed_f {
+	top: 1957px;
+	left: 163px;
+	width: 1481px;
+	height: 115px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#about_us {
+	top: 961px;
+	left: 154px;
+	width: 730px;
+	height: 360px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#globally__cancer_is_a_leading_cause_of_death_and_can_be_prevented_by_lifestyle_changes_and_frequent_screenings__we_seek_to_assemble_physicians_to_provide_care_and_educational_materials_to_those_in_need__raising_awareness_is_key_ {
+	top: 547px;
+	left: 154px;
+	width: 1036px;
+	height: 76px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 112px;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	background:rgba(255,255,255,255);
+}
+
+
+#screening_on_wheels {
+	top: 44px;
+	left: 180px;
+	width: 180px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#screeningfinaloragne {
+	top: 41px;
+	left: 140px;
+	width: 25px;
+	height: 31px;
+}
+
+
+#donate {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#contact {
+	top: 44px;
+	left: 1576px;
+	width: 70px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#pamphlets___plans {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#partners {
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission_ek1 {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+#our_mission1 {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+/* Add your custom CSS here */

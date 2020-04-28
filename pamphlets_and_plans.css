@@ -1,0 +1,161 @@
+/*
+	@name pamphlets_and_plans
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 1080px; margin-left: auto; margin-right: auto;  }
+
+#_bg__pamphlets_and_plans {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+}
+#pamphlets___plans1 {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+#dsc_0024 {
+	top: 0px;
+	left: 0px;
+	width: 1921px;
+	height: 1080px;
+}
+
+
+#line_1 {
+	top: 112px;
+	left: 0.5px;
+	width: 1920px;
+	height: 1px;
+}
+
+
+#pamphlets___plans {
+	top: 257px;
+	left: 145px;
+	width: 887px;
+	height: 610px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 112px;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	background:rgba(255,255,255,255);
+}
+
+
+#screening_on_wheels {
+	top: 44px;
+	left: 180px;
+	width: 180px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#screeningfinaloragne {
+	top: 41px;
+	left: 140px;
+	width: 25px;
+	height: 31px;
+}
+
+
+#donate {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#contact {
+	top: 44px;
+	left: 1576px;
+	width: 70px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#pamphlets___plans_ek1 {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#partners {
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+
+/* Add your custom CSS here */

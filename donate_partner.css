@@ -1,0 +1,400 @@
+/*
+	@name donate_partner
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 1080px; margin-left: auto; margin-right: auto;  }
+
+#_bg__donate_partner {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+}
+
+#donate1 {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+#first_name {
+/*	top: 9px;
+	left: 10px;
+	width: 97px;
+	height: 37px;*/
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#dsc_0084 {
+	top: 0px;
+	left: 0px;
+	width: 1921px;
+	height: 1080px;
+}
+
+
+#donate_ {
+	top: 257px;
+	left: 145px;
+	width: 561px;
+	height: 610px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#help_support_the_community_here_at_screening_on_wheels_ {
+	top: 547px;
+	left: 154px;
+	width: 492px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#line_1 {
+	top: 112px;
+	left: 0.5px;
+	width: 1920px;
+	height: 1px;
+}
+
+#group_3 {
+	top: 607px;
+	left: 154px;
+	width: 420px;
+	height: 64px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 44px;
+	border: 10px solid #eeac3a;
+	background:rgba(255,255,255,255);
+}
+
+
+#partner__ {
+	top: 20px;
+	left: 169px;
+	width: 87px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_2 {
+	top: 607px;
+	left: 604px;
+	width: 420px;
+	height: 64px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 420px;
+	height: 64px;
+	background:rgba(255,255,255,255);
+}
+
+
+#one_time {
+	top: 20px;
+	left: 173px;
+	width: 79px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_7 {
+	top: 699px;
+	left: 153px;
+	width: 871px;
+	height: 64px;
+}
+
+#rectangle_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 871px;
+	height: 64px;
+	background:rgba(255,255,255,255);
+}
+
+
+#amount__ {
+	top: 20px;
+	left: 20px;
+	width: 83px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_8 {
+	top: 952px;
+	left: 153px;
+	width: 871px;
+	height: 64px;
+}
+
+#rectangle_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 871px;
+	height: 64px;
+	background:rgba(238,172,58,255);
+}
+
+
+#donate {
+	top: 20px;
+	left: 402px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_4 {
+	top: 783px;
+	left: 153px;
+	width: 871px;
+	height: 64px;
+}
+
+#rectangle_3_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 871px;
+	height: 64px;
+	background:rgba(255,255,255,255);
+}
+
+
+#email_address {
+	top: 20px;
+	left: 20px;
+	width: 125px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_15 {
+	top: 867px;
+	left: 153px;
+	width: 321px;
+	height: 65px;
+}
+
+#rectangle_3_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 321px;
+	height: 65px;
+	background:rgba(238,172,58,255);
+}
+
+
+#upload_a_high_quality_logo_file {
+	top: 20px;
+	left: 15px;
+	width: 260px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #eeac3a;
+  opacity: 1; /* Firefox */
+}
+
+#rectangle_6 {
+	top: 889px;
+	left: 440px;
+	width: 8px;
+	height: 18px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background:rgba(255,255,255,255);
+}
+
+
+#polygon_4 {
+	top: 878px;
+	left: 429px;
+	width: 30px;
+	height: 19px;
+}
+
+
+#rectangle_7 {
+	top: 909px;
+	left: 440px;
+	width: 8px;
+	height: 5px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background:rgba(255,255,255,255);
+}
+
+
+#___partners_are_encouraged_to_upload_a_logo_file_and_are_now_monthly_contributors {
+	top: 892px;
+	left: 500px;
+	width: 465px;
+	height: 24px;
+	font-family: Mongoose;
+	font-size: 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 112px;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	background:rgba(255,255,255,255);
+}
+
+
+#screening_on_wheels {
+	top: 44px;
+	left: 180px;
+	width: 180px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#screeningfinaloragne {
+	top: 41px;
+	left: 140px;
+	width: 25px;
+	height: 31px;
+}
+
+
+#donate_ek1 {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#contact {
+	top: 44px;
+	left: 1576px;
+	width: 70px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#pamphlets___plans {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#partners {
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+
+/* Add your custom CSS here */

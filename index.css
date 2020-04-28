@@ -1,0 +1,338 @@
+/*
+	@name home_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/;
+}
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 1080px; margin-left: auto; margin-right: auto;  }
+
+#_bg__home_page {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+}
+
+
+#dsc_0078 {
+	top: 107px;
+	left: 0px;
+	width: 960px;
+	height: 973px;
+}
+
+
+#rectangle_2 {
+	top: 112px;
+	left: 960px;
+	width: 960px;
+	height: 968px;
+	background:rgba(255,255,255,255);
+}
+
+
+#the_story_behind_it_all {
+	top: 742px;
+	left: 1041px;
+	width: 540px;
+	height: 109px;
+	font-family: Mongoose;
+	font-size: 90px;
+	text-align: right;
+	color:#eeac3a;
+}
+
+#group_1 {
+	top: 113px;
+	left: 960px;
+	width: 960px;
+	height: 539px;
+}
+
+#dsc_0071 {
+	top: 0px;
+	left: 0px;
+	width: 960px;
+	height: 539px;
+}
+
+
+/*#ellipse_1 {
+	opacity:0.80000001192093;
+	top: 241px;
+	left: 451px;
+	width: 58px;
+	height: 58px;
+	-ms-border-radius: 29px / 29px;
+	-o-border-radius: 29px / 29px;
+	-moz-border-radius: 29px / 29px;
+	-webkit-border-radius: 29px / 29px;
+	border-radius: 29px / 29px;
+	background:rgba(255,255,255,255);
+}*/
+
+
+#polygon_1 {
+	opacity:0.60000002384186;
+	top: 256px;
+	left: 471px;
+	width: 24px;
+	height: 28px;
+}
+
+
+#over_the_summer__on_our_trip_to_costa_rica__we_visited_a_volunteer_clinic_for_uninsured_costa_ricans_where_even_simple_illnesses_could_become_chronic__deadly_conditions__we_were_stunned_by_the_lack_of_access_to_treatment_let_alone_information__so_when_we_r {
+	top: 848px;
+	left: 1056px;
+	width: 771px;
+	height: 154px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#path_2 {
+	top: 112.5px;
+	left: 0.5px;
+	width: 0px;
+	height: 0px;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 112px;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	background:rgba(255,255,255,255);
+}
+
+
+#screening_on_wheels {
+	top: 44px;
+	left: 180px;
+	width: 180px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#screeningfinaloragne {
+	top: 41px;
+	left: 140px;
+	width: 25px;
+	height: 31px;
+}
+
+
+#donate {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#contact {
+	top: 44px;
+	left: 1576px;
+	width: 70px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#pamphlets___plans {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#partners {
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission_ek1 {
+	top: 279px;
+	left: 145px;
+	width: 608px;
+	height: 545px;
+	font-family: Mongoose;
+	font-size: 270px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#globally__cancer_is_a_leading_cause_of_death_and_can_be_prevented_by_lifestyle_changes_and_frequent_screenings__we_seek_to_assemble_physicians_to_provide_care_and_educational_materials_to_those_in_need__raising_awareness_is_key_ {
+	top: 787px;
+	left: 154px;
+	width: 661px;
+	height: 115px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#learn_more__ {
+	top: 909px;
+	left: 154px;
+	width: 115px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#ellipse_2 {
+	opacity:0.25;
+	top: 1004px;
+	left: 475px;
+	width: 15px;
+	height: 15px;
+	-ms-border-radius: 7.5px / 7.5px;
+	-o-border-radius: 7.5px / 7.5px;
+	-moz-border-radius: 7.5px / 7.5px;
+	-webkit-border-radius: 7.5px / 7.5px;
+	border-radius: 7.5px / 7.5px;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_3 {
+	opacity:0.25;
+	top: 1004px;
+	left: 505px;
+	width: 15px;
+	height: 15px;
+	-ms-border-radius: 7.5px / 7.5px;
+	-o-border-radius: 7.5px / 7.5px;
+	-moz-border-radius: 7.5px / 7.5px;
+	-webkit-border-radius: 7.5px / 7.5px;
+	border-radius: 7.5px / 7.5px;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_4 {
+	opacity:0.25;
+	top: 1004px;
+	left: 535px;
+	width: 15px;
+	height: 15px;
+	-ms-border-radius: 7.5px / 7.5px;
+	-o-border-radius: 7.5px / 7.5px;
+	-moz-border-radius: 7.5px / 7.5px;
+	-webkit-border-radius: 7.5px / 7.5px;
+	border-radius: 7.5px / 7.5px;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_5 {
+	opacity:0.25;
+	top: 1004px;
+	left: 445px;
+	width: 15px;
+	height: 15px;
+	-ms-border-radius: 7.5px / 7.5px;
+	-o-border-radius: 7.5px / 7.5px;
+	-moz-border-radius: 7.5px / 7.5px;
+	-webkit-border-radius: 7.5px / 7.5px;
+	border-radius: 7.5px / 7.5px;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_6 {
+	top: 1004px;
+	left: 415px;
+	width: 15px;
+	height: 15px;
+	-ms-border-radius: 7.5px / 7.5px;
+	-o-border-radius: 7.5px / 7.5px;
+	-moz-border-radius: 7.5px / 7.5px;
+	-webkit-border-radius: 7.5px / 7.5px;
+	border-radius: 7.5px / 7.5px;
+	background:rgba(255,255,255,255);
+}
+
+
+#polygon_3 {
+	top: 574px;
+	left: 867px;
+	width: 28px;
+	height: 44px;
+}
+
+
+#polygon_6 {
+	top: 574px;
+	left: 71px;
+	width: 28px;
+	height: 44px;
+}
+
+
+
+/* Add your custom CSS here */

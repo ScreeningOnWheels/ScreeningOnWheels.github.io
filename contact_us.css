@@ -1,0 +1,312 @@
+/*
+	@name contact_us
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 1080px; margin-left: auto; margin-right: auto;  }
+
+#_bg__contact_us {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+}
+
+
+#dsc_0088 {
+	top: 0px;
+	left: 0px;
+	width: 1921px;
+	height: 1080px;
+}
+
+
+#contact_us {
+	top: 257px;
+	left: 145px;
+	width: 902px;
+	height: 360px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#line_1 {
+	top: 112px;
+	left: 0.5px;
+	width: 1920px;
+	height: 1px;
+}
+
+#group_3 {
+	top: 570px;
+	left: 162px;
+	width: 420px;
+	height: 42px;
+}
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 420px;
+	height: 42px;
+	background:rgba(255,255,255,255);
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #eeac3a;
+  opacity: 1; /* Firefox */
+}
+
+#first_name {
+/*	top: 9px;
+	left: 10px;
+	width: 97px;
+	height: 37px;*/
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_2 {
+	top: 570px;
+	left: 622px;
+	width: 420px;
+	height: 42px;
+}
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 420px;
+	height: 42px;
+	background:rgba(255,255,255,255);
+}
+
+
+#last_name {
+	top: 9px;
+	left: 10px;
+	width: 92px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_4 {
+	top: 634px;
+	left: 162px;
+	width: 880px;
+	height: 42px;
+}
+
+#rectangle_3_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 880px;
+	height: 42px;
+	background:rgba(255,255,255,255);
+}
+
+
+#email_address {
+	top: 9px;
+	left: 10px;
+	width: 125px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_5 {
+	top: 698px;
+	left: 162px;
+	width: 880px;
+	height: 42px;
+}
+
+#rectangle_3_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 880px;
+	height: 42px;
+	background:rgba(255,255,255,255);
+}
+
+
+#subject {
+	top: 9px;
+	left: 10px;
+	width: 69px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+#group_6 {
+	top: 762px;
+	left: 162px;
+	width: 880px;
+	height: 139px;
+}
+
+#rectangle_3_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 880px;
+	height: 139px;
+	background:rgba(255,255,255,255);
+}
+
+
+#message {
+	top: 7px;
+	left: 10px;
+	width: 81px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+
+#rectangle_5 {
+	top: 923px;
+	left: 162px;
+	width: 261px;
+	height: 64px;
+	background:rgba(255,255,255,255);
+}
+
+
+#send {
+	top: 943px;
+	left: 273px;
+	width: 45px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#eeac3a;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 112px;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	background:rgba(255,255,255,255);
+}
+
+
+#screening_on_wheels {
+	top: 44px;
+	left: 180px;
+	width: 180px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#screeningfinaloragne {
+	top: 41px;
+	left: 140px;
+	width: 25px;
+	height: 31px;
+}
+
+
+#donate {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#contact {
+	top: 44px;
+	left: 1576px;
+	width: 70px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#pamphlets___plans {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#partners {
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,219 @@
+/*
+	@name partners
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1920px; height: 1553px; margin-left: auto; margin-right: auto;  }
+
+#_bg__partners {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1553px;
+	background:#;
+	background: -webkit-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -o-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -moz-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: -ms-linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+	background: linear-gradient(-180deg , rgba(255,213,45,255) 0%, rgba(252,167,37,255) 100%);
+}
+
+
+#dsc_0091 {
+	top: 0px;
+	left: -1px;
+	width: 1921px;
+	height: 1553px;
+}
+
+
+#partners {
+	top: 257px;
+	left: 145px;
+	width: 775px;
+	height: 360px;
+	font-family: Mongoose;
+	font-size: 300px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#partners1{
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#line_1 {
+	top: 112px;
+	left: 0.5px;
+	width: 1920px;
+	height: 1px;
+}
+
+
+#rectangle_8 {
+	top: 540px;
+	left: 140px;
+	width: 1640px;
+	height: 858px;
+	background:rgba(255,255,255,255);
+}
+
+
+#thank_you_for_supporting_screening_on_wheels__we_appreciate_your_contribution_ {
+	top: 405px;
+	left: 975px;
+	width: 401px;
+	height: 76px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#group_16 {
+	top: 398px;
+	left: 1431px;
+	width: 349px;
+	height: 84px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 84px;
+	background:rgba(238,172,58,255);
+}
+
+
+#join_the_community {
+	top: 15px;
+	left: 14px;
+	width: 331px;
+	height: 72px;
+	font-family: Mongoose;
+	font-size: 60px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#pcsn_2_blue {
+	top: 477px;
+	left: 103px;
+	width: 972px;
+	height: 486px;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 112px;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.23);
+	background:rgba(255,255,255,255);
+}
+
+
+#screening_on_wheels {
+	top: 44px;
+	left: 180px;
+	width: 180px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#screeningfinaloragne {
+	top: 41px;
+	left: 140px;
+	width: 25px;
+	height: 31px;
+}
+
+
+#donate {
+	top: 44px;
+	left: 1721px;
+	width: 64px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#contact {
+	top: 44px;
+	left: 1576px;
+	width: 70px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#pamphlets___plans {
+	top: 44px;
+	left: 1342px;
+	width: 159px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#partners_ek1 {
+	top: 44px;
+	left: 1185px;
+	width: 82px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+#our_mission {
+	top: 44px;
+	left: 1006px;
+	width: 104px;
+	height: 37px;
+	font-family: Mongoose;
+	font-size: 30px;
+	text-align: left;
+	color:#ee9700;
+}
+
+
+
+/* Add your custom CSS here */
