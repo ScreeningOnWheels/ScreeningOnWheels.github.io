@@ -62,7 +62,7 @@
 			</div>
 			
 			<div id="rectangle_2"  ></div>
-			<div id="the_story_behind_it_all" >
+			<div id="the_story_behind_it_all">
 				THE STORY BEHIND IT ALL
 			</div>
 
@@ -116,6 +116,8 @@
 		var viewportWidth = document.documentElement.clientWidth;
 		var zoomer=viewportWidth/1910;
 		document.body.style.zoom = zoomer.toString(10);
+		document.body.style.MozTransform='scale('+zoomer.toString(10)+')';
+		document.body.style.MozTransformOrigin='0 0';
 	</script>
 	<script>
 		var slideIndex = 0;

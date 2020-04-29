@@ -5,8 +5,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body { margin: 0px; padding: 0px; font-family:"Roboto", sans-serif;/*overflow-x:hidden;*/
 }
-@import url(//db.onlinewebfonts.com/c/15e10e275ea9924d0350e569a211d6a8?family=Mongoose-Regular);
-@font-face {font-family: "Mongoose-Regular"; src: url("//db.onlinewebfonts.com/t/15e10e275ea9924d0350e569a211d6a8.eot"); src: url("//db.onlinewebfonts.com/t/15e10e275ea9924d0350e569a211d6a8.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/15e10e275ea9924d0350e569a211d6a8.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/15e10e275ea9924d0350e569a211d6a8.woff") format("woff"), url("//db.onlinewebfonts.com/t/15e10e275ea9924d0350e569a211d6a8.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/15e10e275ea9924d0350e569a211d6a8.svg#Mongoose-Regular") format("svg"); }
+
+@font-face {
+    font-family: 'Mongoose';
+    src: url('rsrcs/mongoose_regular-webfont.woff2') format('woff2'),
+         url('rsrcs/mongoose_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* Only edit this if you know what you are doing! */
 img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
@@ -76,7 +82,7 @@ div { position: absolute; }
 	left: 1041px;
 	width: 540px;
 	height: 109px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 90px;
 	text-align: right;
 	color:#eeac3a;
@@ -126,7 +132,7 @@ div { position: absolute; }
 	left: 1056px;
 	width: 771px;
 	height: 154px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -160,7 +166,7 @@ div { position: absolute; }
 	left: 180px;
 	width: 180px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -180,7 +186,7 @@ div { position: absolute; }
 	left: 1721px;
 	width: 64px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -192,7 +198,7 @@ div { position: absolute; }
 	left: 1576px;
 	width: 70px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -204,7 +210,7 @@ div { position: absolute; }
 	left: 1342px;
 	width: 159px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -216,7 +222,7 @@ div { position: absolute; }
 	left: 1185px;
 	width: 82px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -228,7 +234,7 @@ div { position: absolute; }
 	left: 1006px;
 	width: 104px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -240,7 +246,7 @@ div { position: absolute; }
 	left: 145px;
 	width: 608px;
 	height: 545px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 270px;
 	text-align: left;
 	color:#ffffff;
@@ -252,7 +258,7 @@ div { position: absolute; }
 	left: 154px;
 	width: 661px;
 	height: 115px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ffffff;
@@ -264,7 +270,7 @@ div { position: absolute; }
 	left: 154px;
 	width: 115px;
 	height: 37px;
-	font-family: Mongoose-Regular;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ffffff;

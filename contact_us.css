@@ -2,7 +2,17 @@
 	@name contact_us
 */
 /* Only edit this if you know what you are doing! */
-body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body { margin: 0px; padding: 0px; font-family:"Roboto", sans-serif;/*overflow-x:hidden;*/
+}
+
+@font-face {
+    font-family: 'Mongoose';
+    src: url('rsrcs/mongoose_regular-webfont.woff2') format('woff2'),
+         url('rsrcs/mongoose_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* Only edit this if you know what you are doing! */
 img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
@@ -39,7 +49,7 @@ div { position: absolute; }
 	left: 145px;
 	width: 902px;
 	height: 360px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 300px;
 	text-align: left;
 	color:#ffffff;
@@ -78,7 +88,7 @@ div { position: absolute; }
 	left: 10px;
 	width: 97px;
 	height: 37px;*/
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#eeac3a;
@@ -105,7 +115,7 @@ div { position: absolute; }
 	left: 10px;
 	width: 92px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#eeac3a;
@@ -132,7 +142,7 @@ div { position: absolute; }
 	left: 10px;
 	width: 125px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#eeac3a;
@@ -159,7 +169,7 @@ div { position: absolute; }
 	left: 10px;
 	width: 69px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#eeac3a;
@@ -186,7 +196,7 @@ div { position: absolute; }
 	left: 10px;
 	width: 81px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#eeac3a;
@@ -207,7 +217,7 @@ div { position: absolute; }
 	left: 273px;
 	width: 45px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#eeac3a;
@@ -233,7 +243,7 @@ div { position: absolute; }
 	left: 180px;
 	width: 180px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -253,7 +263,7 @@ div { position: absolute; }
 	left: 1721px;
 	width: 64px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -265,7 +275,7 @@ div { position: absolute; }
 	left: 1576px;
 	width: 70px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -277,7 +287,7 @@ div { position: absolute; }
 	left: 1342px;
 	width: 159px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -289,7 +299,7 @@ div { position: absolute; }
 	left: 1185px;
 	width: 82px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;
@@ -301,7 +311,7 @@ div { position: absolute; }
 	left: 1006px;
 	width: 104px;
 	height: 37px;
-	font-family: Mongoose;
+	font-family: 'Mongoose';
 	font-size: 30px;
 	text-align: left;
 	color:#ee9700;

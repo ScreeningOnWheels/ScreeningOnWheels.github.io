@@ -73,5 +73,7 @@
 		var viewportWidth = document.documentElement.clientWidth;
 		var zoomer=viewportWidth/1910;
 		document.body.style.zoom = zoomer.toString(10);
+		document.body.style.MozTransform='scale('+zoomer.toString(10)+')';
+		document.body.style.MozTransformOrigin='0 0';
 	</script>
 </html>
