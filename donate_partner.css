@@ -261,6 +261,7 @@ div { position: absolute; }
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #eeac3a;
   opacity: 1; /* Firefox */
+  margin-left: 100px;
 }
 
 #rectangle_6 {
@@ -338,7 +339,7 @@ div { position: absolute; }
 
 
 #screeningfinaloragne {
-	top: 41px;
+	top: 45px;
 	left: 140px;
 	width: 25px;
 	height: 31px;
