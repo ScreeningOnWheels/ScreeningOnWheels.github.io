@@ -43,6 +43,43 @@ div { position: absolute; }
 	height: 1080px;
 }
 
+#dsc_0067 {
+	top: 1080px;
+	left: -1px;
+	width: 1921px;
+	height: 1080px;
+}
+
+#masthead {
+	top: 2101px;
+	left: 0px;
+	width: 1920px;
+	height: 1020px;
+}
+
+#button_contact{
+	position:absolute;
+	text-align:center;
+	top: 3000px;
+	left: 0px;
+	width: 233px;
+	height: 54px;
+}
+
+#rectangle_9 {
+	top: 0px;
+	left: 0px;
+	width: 349px;
+	height: 84px;
+	background:rgba(238,172,58,0);
+}
+
+#group_16 {
+	top: 2918px;
+	left: 787px;
+	width: 349px;
+	height: 84px;
+}
 
 #our_mission {
 	top: 257px;
@@ -75,13 +112,6 @@ div { position: absolute; }
 	height: 1px;
 }
 
-
-#dsc_0067 {
-	top: 1080px;
-	left: -1px;
-	width: 1921px;
-	height: 1080px;
-}
 
 
 #meet_the_team {
